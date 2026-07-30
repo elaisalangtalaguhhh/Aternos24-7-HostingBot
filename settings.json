@@ -8,7 +8,7 @@
   "server": {
     "ip": "node-sg-free-01.tickhosting.com",
     "port": 50522,
-    "version": "",
+    "version": "1.16",
     "try-creative": false
   },
   "position": {
