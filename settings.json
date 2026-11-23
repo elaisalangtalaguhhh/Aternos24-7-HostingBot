@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
-    "port": 50522,
+    "ip": "eatsheesh.mrlmc.xyz",
+    "port": 19217,
     "version": "1.16",
     "try-creative": false
   },
